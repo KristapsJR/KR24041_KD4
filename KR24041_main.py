@@ -4,3 +4,4 @@ a = 2
 b = 3
 print(plus(a,b))
 print(mult(a,b))
+print(multx(a,b,2))
