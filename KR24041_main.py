@@ -3,4 +3,5 @@ from KR24041_libmult import *
 a = 2
 b = 3
 print(plus(a,b))
+print(plusx(a,b,2))
 print(mult(a,b))
